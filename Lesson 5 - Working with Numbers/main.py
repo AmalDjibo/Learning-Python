@@ -1,2 +1,3 @@
-my_number = 8
-print(1)
+from math import *
+
+print(floor(4.2))
