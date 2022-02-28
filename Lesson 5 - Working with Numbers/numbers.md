@@ -29,6 +29,15 @@ simply rounds a number
 # Pyton math libray
 from math import * (on the top of project)
 
-## floor rounds a number down 
+## floor
+ rounds a number down 
+
+## ceil
+ rounds a number up
+
+## sqrt
+ gives you the square root of a number
+
+
 
    
